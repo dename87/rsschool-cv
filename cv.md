@@ -26,3 +26,18 @@ def digitize(n):
 
 ## Experience
 2010-2022 Worked as instrumentation engineer in JSC Tomskneft VNK.
+
+## Education
+* 2005 - 2010 Tomsk Polytechnic University  
+specialization: Metrology, Standardization and Certification  
+qualification: Bachelor, Engineer  
+* Нахожусь в процессе изучения Python на платформе Stepik  
+courses:
+    + https://stepik.org/cert/1505964
+    + https://stepik.org/cert/1520144
+    + https://stepik.org/cert/1746815
+    + https://stepik.org/cert/1926720
+
+## Languages
+* Russian - native speaker.
+* English - B2.
